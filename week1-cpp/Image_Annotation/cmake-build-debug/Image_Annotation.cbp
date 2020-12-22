@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Image_Annotation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Intro">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Intro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Intro"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Intro/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Intro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Intro/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Rectangles">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Rectangles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Rectangles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Rectangles/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Rectangles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Rectangles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Lines">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Lines" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Lines"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Lines/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Lines" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Lines/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Ellipse">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Ellipse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Ellipse"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Ellipse/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Ellipse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Ellipse/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Text">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Text" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Text"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Text/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Text" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Text/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Circles">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Circles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Circles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Drawing_Circles/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Drawing_Circles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Drawing_Circles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Drawing_Circles.cpp">
+			<Option target="Drawing_Circles"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Drawing_Ellipse.cpp">
+			<Option target="Drawing_Ellipse"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Drawing_Lines.cpp">
+			<Option target="Drawing_Lines"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Drawing_Rectangles.cpp">
+			<Option target="Drawing_Rectangles"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Drawing_Text.cpp">
+			<Option target="Drawing_Text"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/Intro.cpp">
+			<Option target="Intro"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/test.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

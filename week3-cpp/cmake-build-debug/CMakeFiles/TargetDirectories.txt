@@ -1,0 +1,10 @@
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/test.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/openingClosing.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/blobDetection.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/erosionDilation.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/implementationOfMorphologicalOperations.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/connectedComponentAnalysis.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/thresholding.dir
+/Users/phinease/Desktop/OpenCV/week3-cpp/cmake-build-debug/CMakeFiles/contours.dir

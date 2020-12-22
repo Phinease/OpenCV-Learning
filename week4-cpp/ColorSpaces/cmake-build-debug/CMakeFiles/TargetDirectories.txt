@@ -1,0 +1,9 @@
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/test.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/LabColorSpace.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/dominantColor.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/YCrCbColorSpace.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/hsvColorSpace.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/desaturationFilter.dir
+/Users/phinease/Desktop/OpenCV/week4-cpp/ColorSpaces/cmake-build-debug/CMakeFiles/bgrColorSpace.dir

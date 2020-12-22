@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ImageGradients"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imageSharpening">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/imageSharpening" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 imageSharpening"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imageSharpening/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/imageSharpening" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 imageSharpening/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="canny">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/canny" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 canny"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="canny/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/canny" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 canny/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laplacian">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/laplacian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 laplacian"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laplacian/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/laplacian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 laplacian/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/test2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 test2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/test2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 test2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sobelFilter">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/sobelFilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 sobelFilter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sobelFilter/fast">
+				<Option output="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/sobelFilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 sobelFilter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/canny.cpp">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/imageSharpening.cpp">
+			<Option target="imageSharpening"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/laplacian.cpp">
+			<Option target="laplacian"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/sobelFilter.cpp">
+			<Option target="sobelFilter"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/test.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/test2.cpp">
+			<Option target="test2"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/phinease/Desktop/OpenCV/week4-cpp/ImageGradients/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

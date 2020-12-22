@@ -1,0 +1,4 @@
+/Users/phinease/Desktop/OpenCV/week1-cpp/Bitwise_Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Bitwise_Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Bitwise_Operations/cmake-build-debug/CMakeFiles/test.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Bitwise_Operations/cmake-build-debug/CMakeFiles/Example.dir

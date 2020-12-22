@@ -1,0 +1,12 @@
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Manipulating_group_of_pixels.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Manipulating_Color_Pixels.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Saving_an_image.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Splitting_and_merging_channels.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Image_as_a_matrix.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/test.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Manipulating_Pixels.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/test2.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Image_with_alpha_channel.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Getting_started_with_images/cmake-build-debug/CMakeFiles/Color_Images.dir

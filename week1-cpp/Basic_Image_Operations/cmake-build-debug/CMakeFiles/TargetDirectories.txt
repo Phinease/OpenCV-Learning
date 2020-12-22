@@ -1,0 +1,7 @@
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/Copying_a_region_to_another.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/Resizing_an_image.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/Cropping_an_Image_Section.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/Creating_an_image_mask.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Basic_Image_Operations/cmake-build-debug/CMakeFiles/Create_new_images.dir

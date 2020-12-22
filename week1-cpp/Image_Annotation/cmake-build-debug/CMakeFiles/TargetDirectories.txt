@@ -1,0 +1,9 @@
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Intro.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Drawing_Rectangles.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/test.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Drawing_Lines.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Drawing_Ellipse.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Drawing_Text.dir
+/Users/phinease/Desktop/OpenCV/week1-cpp/Image_Annotation/cmake-build-debug/CMakeFiles/Drawing_Circles.dir
